@@ -1,0 +1,45 @@
+.small{
+    display: block;
+    margin: auto;
+    vertical-align: middle;
+    width: 120px;
+    max-height: 90px;
+    border-radius: 10px 10px 10px 10px;  
+}
+
+.imageview-header{
+    background-color: red;  
+}
+
+.full{
+    margin: auto;
+    vertical-align: middle;
+    display: block;
+    max-width:75%;
+}
+
+.pages{
+     display: block;
+}
+
+.sidebar{
+    float:left;
+    width: 20%;
+   
+}
+.thumbframe{
+    float:left;
+     width: 75%;
+}
+
+.thumb{
+    display: inline-block;
+    width: 150px;
+    height: 175px;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+
+body{
+    background-color: tan;
+}
